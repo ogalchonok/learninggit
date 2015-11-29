@@ -1,1 +1,2 @@
 this is my fist cool text file
+this is the second line of this file
